@@ -1,0 +1,302 @@
+[
+    {
+        "name": "Nina",
+        "review": "This shop is a hidden gem! The pistachio ice cream tasted so fresh and authentic, and their waffle cones are made right on-site. Highly recommend for ice cream enthusiasts.",
+        "grade": 8,
+        "reviewer_level": "renowned critic"
+    },
+    {
+        "name": "Sarah",
+        "review": "If you\u2019re looking for gourmet ice cream, this is the place to be. I had the lavender honey flavor, which was divine. The presentation and serving sizes were generous as well.",
+        "grade": 5,
+        "reviewer_level": "renowned critic"
+    },
+    {
+        "name": "Emily",
+        "review": "The ice cream was light, airy, and packed with flavor. I especially enjoyed their unique take on the classic cookies and cream. Will definitely return soon!",
+        "grade": 5,
+        "reviewer_level": "local guide"
+    },
+    {
+        "name": "Sarah",
+        "review": "A truly unique ice cream shop. I had the blueberry cheesecake flavor, and it tasted like an actual slice of cheesecake. The attention to detail was incredible.",
+        "grade": 5,
+        "reviewer_level": "renowned critic"
+    },
+    {
+        "name": "David",
+        "review": "This shop is a hidden gem! The pistachio ice cream tasted so fresh and authentic, and their waffle cones are made right on-site. Highly recommend for ice cream enthusiasts.",
+        "grade": 5,
+        "reviewer_level": "trusted reviewer"
+    },
+    {
+        "name": "Emma",
+        "review": "The flavors here are so creative. I tried the coconut lime and it was refreshingly delicious, unlike any other flavor I\u2019ve had. The shop was clean and the staff was friendly.",
+        "grade": 7,
+        "reviewer_level": "new"
+    },
+    {
+        "name": "James",
+        "review": "The ambiance of the shop was warm and welcoming, and the staff were extremely knowledgeable about their products. They even gave me a few sample spoons to try before I made my decision.",
+        "grade": 8,
+        "reviewer_level": "local guide"
+    },
+    {
+        "name": "Hannah",
+        "review": "The ice cream was rich and creamy, with bold flavors. The coffee crunch flavor was amazing and gave a perfect balance of bitter and sweet.",
+        "grade": 8,
+        "reviewer_level": "trusted reviewer"
+    },
+    {
+        "name": "David",
+        "review": "I loved the vegan options available here, which were just as creamy and delicious as the dairy-based ones. Their use of fresh ingredients was evident in every bite.",
+        "grade": 3,
+        "reviewer_level": "new"
+    },
+    {
+        "name": "Emily",
+        "review": "Had a great experience here. The staff were incredibly patient as I took my time deciding on the flavors. The mango sorbet is out of this world \u2013 so refreshing and natural.",
+        "grade": 5,
+        "reviewer_level": "new"
+    },
+    {
+        "name": "Liam",
+        "review": "The flavors here are so creative. I tried the coconut lime and it was refreshingly delicious, unlike any other flavor I\u2019ve had. The shop was clean and the staff was friendly.",
+        "grade": 2,
+        "reviewer_level": "renowned critic"
+    },
+    {
+        "name": "Isabella",
+        "review": "It\u2019s rare to find a place with such a wide selection of gluten-free flavors. I had the raspberry sorbet, and it was the best I\u2019ve ever had \u2013 so fresh and flavorful.",
+        "grade": 7,
+        "reviewer_level": "local guide"
+    },
+    {
+        "name": "Amelia",
+        "review": "It\u2019s rare to find a place with such a wide selection of gluten-free flavors. I had the raspberry sorbet, and it was the best I\u2019ve ever had \u2013 so fresh and flavorful.",
+        "grade": 8,
+        "reviewer_level": "local guide"
+    },
+    {
+        "name": "David",
+        "review": "This shop puts so much care into their ice cream. The fresh fruit toppings were a wonderful addition to my vanilla bean scoop. Definitely worth the trip.",
+        "grade": 7,
+        "reviewer_level": "trusted reviewer"
+    },
+    {
+        "name": "Hannah",
+        "review": "The ice cream was light, airy, and packed with flavor. I especially enjoyed their unique take on the classic cookies and cream. Will definitely return soon!",
+        "grade": 7,
+        "reviewer_level": "local guide"
+    },
+    {
+        "name": "Sophia",
+        "review": "Had a great experience here. The staff were incredibly patient as I took my time deciding on the flavors. The mango sorbet is out of this world \u2013 so refreshing and natural.",
+        "grade": 2,
+        "reviewer_level": "new"
+    },
+    {
+        "name": "Emma",
+        "review": "The ambiance of the shop was warm and welcoming, and the staff were extremely knowledgeable about their products. They even gave me a few sample spoons to try before I made my decision.",
+        "grade": 2,
+        "reviewer_level": "trusted reviewer"
+    },
+    {
+        "name": "Michael",
+        "review": "Absolutely loved this place! The ice cream was decadent and rich. I had the chocolate hazelnut, and it was heavenly. Will definitely be coming back.",
+        "grade": 4,
+        "reviewer_level": "new"
+    },
+    {
+        "name": "Rachel",
+        "review": "A truly unique ice cream shop. I had the blueberry cheesecake flavor, and it tasted like an actual slice of cheesecake. The attention to detail was incredible.",
+        "grade": 1,
+        "reviewer_level": "local guide"
+    },
+    {
+        "name": "Sarah",
+        "review": "The portions are generous, and the quality of the ice cream is superb. I especially loved the caramel swirl with sea salt. Perfect blend of sweet and savory!",
+        "grade": 5,
+        "reviewer_level": "new"
+    },
+    {
+        "name": "Sarah",
+        "review": "Great place, love the ice cream!",
+        "grade": 4,
+        "reviewer_level": "new"
+    },
+    {
+        "name": "David",
+        "review": "Good variety, but service was slow.",
+        "grade": 1,
+        "reviewer_level": "local guide"
+    },
+    {
+        "name": "James",
+        "review": "Friendly staff and delicious flavors.",
+        "grade": 6,
+        "reviewer_level": "new"
+    },
+    {
+        "name": "John",
+        "review": "Good variety, but service was slow.",
+        "grade": 5,
+        "reviewer_level": "local guide"
+    },
+    {
+        "name": "Sarah",
+        "review": "Average ice cream, nothing special.",
+        "grade": 7,
+        "reviewer_level": "new"
+    },
+    {
+        "name": "John",
+        "review": "Friendly staff and delicious flavors.",
+        "grade": 8,
+        "reviewer_level": "renowned critic"
+    },
+    {
+        "name": "Isabella",
+        "review": "Tasty, but a bit pricey.",
+        "grade": 7,
+        "reviewer_level": "renowned critic"
+    },
+    {
+        "name": "Mia",
+        "review": "Tasty, but a bit pricey.",
+        "grade": 7,
+        "reviewer_level": "new"
+    },
+    {
+        "name": "John",
+        "review": "Friendly staff and delicious flavors.",
+        "grade": 9,
+        "reviewer_level": "trusted reviewer"
+    },
+    {
+        "name": "Derek",
+        "review": "Tasty, but a bit pricey.",
+        "grade": 2,
+        "reviewer_level": "renowned critic"
+    },
+    {
+        "name": "Chris",
+        "review": "Great place, love the ice cream!",
+        "grade": 9,
+        "reviewer_level": "new"
+    },
+    {
+        "name": "Nina",
+        "review": "Tasty, but a bit pricey.",
+        "grade": 6,
+        "reviewer_level": "local guide"
+    },
+    {
+        "name": "Samantha",
+        "review": "Average ice cream, nothing special.",
+        "grade": 8,
+        "reviewer_level": "renowned critic"
+    },
+    {
+        "name": "Benjamin",
+        "review": "Great place, love the ice cream!",
+        "grade": 10,
+        "reviewer_level": "local guide"
+    },
+    {
+        "name": "Sophia",
+        "review": "Average ice cream, nothing special.",
+        "grade": 10,
+        "reviewer_level": "renowned critic"
+    },
+    {
+        "name": "Zane",
+        "review": "Good variety, but service was slow.",
+        "grade": 8,
+        "reviewer_level": "new"
+    },
+    {
+        "name": "Paul",
+        "review": "Tasty, but a bit pricey.",
+        "grade": 1,
+        "reviewer_level": "new"
+    },
+    {
+        "name": "Charlotte",
+        "review": "Great place, love the ice cream!",
+        "grade": 10,
+        "reviewer_level": "trusted reviewer"
+    },
+    {
+        "name": "Amelia",
+        "review": "Good variety, but service was slow.",
+        "grade": 8,
+        "reviewer_level": "new"
+    },
+    {
+        "name": "Michael",
+        "review": "Good variety, but service was slow.",
+        "grade": 1,
+        "reviewer_level": "trusted reviewer"
+    },
+    {
+        "name": "Ethan",
+        "review": "Good variety, but service was slow.",
+        "grade": 4,
+        "reviewer_level": "renowned critic"
+    },
+    {
+        "name": "Michael",
+        "review": "Tasty, but a bit pricey.",
+        "grade": 2,
+        "reviewer_level": "new"
+    },
+    {
+        "name": "Tom",
+        "review": "Friendly staff and delicious flavors.",
+        "grade": 2,
+        "reviewer_level": "new"
+    },
+    {
+        "name": "Chris",
+        "review": "Average ice cream, nothing special.",
+        "grade": 3,
+        "reviewer_level": "renowned critic"
+    },
+    {
+        "name": "Charlotte",
+        "review": "Friendly staff and delicious flavors.",
+        "grade": 3,
+        "reviewer_level": "trusted reviewer"
+    },
+    {
+        "name": "Amelia",
+        "review": "Good variety, but service was slow.",
+        "grade": 1,
+        "reviewer_level": "local guide"
+    },
+    {
+        "name": "Charlotte",
+        "review": "Great place, love the ice cream!",
+        "grade": 6,
+        "reviewer_level": "local guide"
+    },
+    {
+        "name": "Amelia",
+        "review": "Friendly staff and delicious flavors.",
+        "grade": 5,
+        "reviewer_level": "local guide"
+    },
+    {
+        "name": "Zane",
+        "review": "Average ice cream, nothing special.",
+        "grade": 3,
+        "reviewer_level": "renowned critic"
+    },
+    {
+        "name": "Samantha",
+        "review": "Average ice cream, nothing special.",
+        "grade": 9,
+        "reviewer_level": "renowned critic"
+    }
+]
